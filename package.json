@@ -1,0 +1,14 @@
+{
+  "name": "abc2tsvg",
+  "version": "1.22.18",
+  "description": "<style> p{margin-left:.5cm;max-width:21cm} li{margin-left:.5cm;max-width:20cm} li p{margin-left:0} </style> ## abc2svg",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
